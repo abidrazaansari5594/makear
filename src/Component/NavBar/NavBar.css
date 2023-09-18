@@ -1,0 +1,27 @@
+.navbar-container {
+    background-color: #515151;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 390px;
+    height: 54px;
+    padding: 25px, 14px, 15px, 34px;
+    justify-content: space-between;
+}
+.navbar-container span{
+    margin-left: 10px;
+    color: white;
+}
+.navbar-container .icons{
+    margin-right: 10px;
+    color: white;
+}
+.icons {
+    width: 66.6px;
+    height: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}

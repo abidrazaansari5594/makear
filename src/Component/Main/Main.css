@@ -1,0 +1,111 @@
+.Main_Container {
+    width: 100%;
+    height: 100%;
+    background-color: #faea18;
+    
+}
+
+.inner_main {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    height: 105px;
+    margin-top: 20px;
+}
+
+.milkylogo {
+    width: 210px;
+    height: 105px;
+}
+
+.sourvenirs {
+    width: 51px;
+    height: 51px;
+    cursor: pointer;
+}
+
+.homeicons {
+    width: 51px;
+    height: 51px;
+    cursor: pointer;
+}
+
+.body_Container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url("../../assets/background.png");
+}
+
+
+.mypassport {
+    position: absolute;
+    width: 172.61px;
+    height: 245.68px;
+    top: 16.22px;
+    left: 10.33px;
+    border-radius: 5px, 15px, 15px, 5px;
+    /* angle: 5.55 deg; */
+    /* transform: rotate(5.55deg); */
+}
+
+.detailspasswordinside {
+    position: absolute;
+    width: 295.75px;
+    height: 197.42px;
+    top: 70.96px;
+    left: 46.5px;
+}
+
+.passportbottom {
+    position: absolute;
+    width: 295.75px;
+    height: 197.42px;
+    top: 210.96px;
+    left: 15.5px;
+}
+
+.download {
+    position: absolute;
+    width: 137px;
+    height: 36px;
+    top: 491px;
+    left: 13px;
+
+}
+
+
+
+.bottom_parts {
+    position: absolute;
+    width: 390px;
+    height: 138px;
+    top: 709px;
+    padding: 8px, 0px, 8.5px, 0px;
+    background-color: #515151;
+}
+
+.frame17 {
+    width: 394px;
+    height: 93px;
+    padding: 10px, 0px, 10px, 0px;
+    border-radius: 18px;
+    justify: space-between;
+    margin-top: -15px;
+
+}
+
+.innerBottom {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    width: 390px;
+    color: #0A84FF;
+    height: 67px;
+    gap: 22px;
+    font-size: 30px;
+}

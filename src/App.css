@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app{
+  /* display: flex; */
+  width: 390px;
+  height: 100vh;
+  background-color: #faea18;
+}
+.d-none {
+  display: none;
+}
